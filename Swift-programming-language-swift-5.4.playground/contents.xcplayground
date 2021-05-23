@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' buildActiveScheme='true'>
+    <pages>
+        <page name='Function - Defining and Calling Functions'/>
+        <page name='Function - Function Parameters and Return Values'/>
+        <page name='Function - Function Argument Labels and Parameter Names'/>
+        <page name='Function - Function Types'/>
+        <page name='Function - Nested Functions'/>
+    </pages>
+</playground>
